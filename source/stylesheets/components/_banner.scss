@@ -1,5 +1,5 @@
 .banner {
-  color: white;
+  color: #f7f7f7;
   text-align: center;
   height: 700px;
   /* if you have a 70px navbar => height: calc(100vh - 70px); */
@@ -27,4 +27,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.banner3 {
+  background-color: linear-gradient(-225deg, rgba(0,101,168,0.6) 0%, rgba(0,36,61,0.6) 50%);
+
 }
